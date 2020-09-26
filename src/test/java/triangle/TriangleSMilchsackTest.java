@@ -4,6 +4,8 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 import org.junit.Test;
 
+import triangle.implementations.smilchsack.TriangleSMilchsack;
+
 public class TriangleSMilchsackTest
 {
 
