@@ -91,3 +91,6 @@ local.properties
 cov.xml
 
 .vscode/
+
+#OSX
+.DS_Store
