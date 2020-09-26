@@ -20,9 +20,9 @@ You should see : org.assertj.core.api.Assertions.* in the list of favorites.
 
 # For vscode
 
-* Clone project to <some place>
+* Clone project to `<some place>`
 * open vscode
-* "File", "Open Folder" and open <some place>
+* "File", "Open Folder" and open `<some place>`
 * Maybe adapt jdk: Settings, search for jdk. There should be "java: Home
   * Insert "java.home": "C:\\Program Files\\AdoptOpenJDK\\jdk-15.0.0.36-hotspot" (adapt path)
 
