@@ -86,3 +86,6 @@ local.properties
 
 .classpath
 .project
+
+#coverage file
+cov.xml
